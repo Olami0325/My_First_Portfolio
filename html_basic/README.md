@@ -1,0 +1,1 @@
+This is a basic website built using HTML. It includes a homepage and basic pages with a title and a body.It includes a simple table populated with data and also my portfolio webpage that effectively showcase my skills, projects and contact information. No external libraries were used.
